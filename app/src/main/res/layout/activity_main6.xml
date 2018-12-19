@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main6Activity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="379"
+        android:layout_height="55"
+        android:text="      RECRUITMENTS :"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        app:fontFamily="casual"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <TableLayout
+        android:layout_width="381"
+        android:layout_height="390"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="60dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textView42"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <TextView
+        android:id="@+id/textView43"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="138dp" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="177dp" />
+
+    <TextView
+        android:id="@+id/textView46"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="216dp" />
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="255dp" />
+
+    <TextView
+        android:id="@+id/textView48"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="294dp" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="333dp" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="372dp" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="381"
+        android:layout_height="39"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="411dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BACK TO HOME"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="457dp" />
+</android.support.constraint.ConstraintLayout>
